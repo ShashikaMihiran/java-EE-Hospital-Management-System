@@ -1,1 +1,1 @@
-# java-EE-Hospital-Management-System
+# Java-Spring-Boot-Hospital-Management-System
